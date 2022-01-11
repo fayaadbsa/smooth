@@ -21,6 +21,7 @@ const Sidebar = (props) => {
           <SidebarLink to="about">About</SidebarLink>
           <SidebarLink to="projects">Projects</SidebarLink>
           <SidebarLink to="contact">Contact</SidebarLink>
+          <SidebarLink to="services">Services</SidebarLink>
           <SidebarLink to="signin">Sign In</SidebarLink>
         </SidebarMenu>
         <SideBtnWrap>
